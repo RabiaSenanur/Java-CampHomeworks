@@ -3,23 +3,34 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/ArraysDemo/ArraysDemo.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/ArraysDemo/ArraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Classes/Classes.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/ClassesWithAttributes/ClassesWithAttributes.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/ClassesWithAttributes/ClassesWithAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/DataTypes/DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/InheritanceDemo/InheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCampHomeworks.iml" filepath="$PROJECT_DIR$/JavaCampHomeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/LoopDemo/LoopDemo.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/LoopDemo/LoopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Methods/Methods.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Methods2/Methods2.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Methods2/Methods2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MiniProjectFindingNumber/MiniProjectFindingNumber.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MiniProjectFindingNumber/MiniProjectFindingNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MiniProjectFriendsNumbers/MiniProjectFriendsNumbers.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MiniProjectFriendsNumbers/MiniProjectFriendsNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MiniProjectPerfectNumbers/MiniProjectPerfectNumbers.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MiniProjectPerfectNumbers/MiniProjectPerfectNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MiniProjectPrimeNumbers/MiniProjectPrimeNumbers.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MiniProjectPrimeNumbers/MiniProjectPrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MiniProjectVowels/MiniProjectVowels.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MiniProjectVowels/MiniProjectVowels.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/MultiDimensionalArrayDemo/MultiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/MultiDimensionalArrayDemo/MultiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/PrivateClassesWithAttributes/PrivateClassesWithAttributes.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/PrivateClassesWithAttributes/PrivateClassesWithAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/ReCapDemo1/ReCapDemo1.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/ReCapDemo1/ReCapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/ReCapDemo2/ReCapDemo2.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/ReCapDemo2/ReCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/ReCapDemo_Classes/ReCapDemo_Classes.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/ReCapDemo_Classes/ReCapDemo_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/SwitchDemo/SwitchDemo.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/SwitchDemo/SwitchDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/Variables/Variables.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1 Homeworks/Week1 Homeworks.iml" filepath="$PROJECT_DIR$/Week1 Homeworks/Week1 Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2 Homeworks/Week2 Homeworks.iml" filepath="$PROJECT_DIR$/Week2 Homeworks/Week2 Homeworks.iml" />
     </modules>
   </component>
 </project>
